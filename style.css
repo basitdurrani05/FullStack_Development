@@ -1,0 +1,101 @@
+/* 1). Element Selecto */
+
+/* h1{
+
+
+    color: salmon;
+} */
+
+
+/* 2). Class Selector */
+
+/* .hello{
+    color: blue;
+} */
+
+
+/* 3). Id Selector */
+
+/* #hello{
+
+    color: hotpink;
+} */
+
+
+/* 4). Universal Selector - Reset the CSS */
+
+
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+
+/* 5). Pseudo Selector */
+
+
+/* div{
+
+    height: 300px;
+    width: 300px;
+    background-color: lightgreen;
+}
+
+div:hover{
+    
+        background-color: salmon;
+} */
+
+
+
+/* .parent{
+
+    height: 300px;
+    width: 300px;
+    background-color: lightgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.child{
+
+    height: 100px;
+    width: 100px;
+    background-color:blue;
+   
+} */
+
+
+/* .box{
+
+    height: 200px;
+    width: 200px; 
+    background-color: lightgreen;
+    border: 1px solid black;
+    
+    
+}
+
+
+
+.box2{
+
+    height: 60px;
+    width: 60px;
+    background-color: blue;
+    border: 1px solid black;
+    margin: 50px;
+    padding: 10px;
+} */
+
+
+.box3{
+
+    height: 100px;
+    width: 100px;
+    background-color: lightcoral;
+    padding: 30px;
+    margin: 60px;
+}
