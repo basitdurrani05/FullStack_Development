@@ -91,11 +91,65 @@ div:hover{
 } */
 
 
-.box3{
+/* .box3{
 
     height: 100px;
     width: 100px;
     background-color: lightcoral;
     padding: 30px;
     margin: 60px;
+} */
+
+
+/*  Imp : How to set image in css */
+
+
+/* body{
+
+    background-image: url('windows-11-logo-colorful-background-digital-art-4k-wallpaper-uhdpaper.com-127@0@h.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+} */
+
+
+
+/* Responsive */
+
+/* @media only screen and (max-width: 600px){
+
+    body{
+        background-color: red;
+    }
+} */
+
+
+
+/* span{
+
+    color: green;
+} */
+
+
+
+/* Keyframe */
+
+
+/* div{
+
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border: 2px solid red;
+    position: relative;
+    animation: amit_arun 5s infinite;
 }
+
+
+@keyframes amit_arun{
+
+    from{background-color: blue; top: 0px; }
+    to{background-color: olive; top: 200px;}
+} */
+
